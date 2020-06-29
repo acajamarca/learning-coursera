@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto de NodeJS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acajamarca/learning-coursera.git"
+  },
+  "author": "Anthony Cajamarca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acajamarca/learning-coursera/issues"
+  },
+  "homepage": "https://github.com/acajamarca/learning-coursera#readme"
+}
